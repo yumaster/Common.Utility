@@ -1,0 +1,13 @@
+D:\vscode\master\Common.Utility\ValidatorHelper\bin\Debug\netcoreapp3.1\ValidatorHelper.exe
+D:\vscode\master\Common.Utility\ValidatorHelper\bin\Debug\netcoreapp3.1\ValidatorHelper.deps.json
+D:\vscode\master\Common.Utility\ValidatorHelper\bin\Debug\netcoreapp3.1\ValidatorHelper.runtimeconfig.json
+D:\vscode\master\Common.Utility\ValidatorHelper\bin\Debug\netcoreapp3.1\ValidatorHelper.runtimeconfig.dev.json
+D:\vscode\master\Common.Utility\ValidatorHelper\bin\Debug\netcoreapp3.1\ValidatorHelper.dll
+D:\vscode\master\Common.Utility\ValidatorHelper\bin\Debug\netcoreapp3.1\ValidatorHelper.pdb
+D:\vscode\master\Common.Utility\ValidatorHelper\obj\Debug\netcoreapp3.1\ValidatorHelper.csprojAssemblyReference.cache
+D:\vscode\master\Common.Utility\ValidatorHelper\obj\Debug\netcoreapp3.1\ValidatorHelper.csproj.CoreCompileInputs.cache
+D:\vscode\master\Common.Utility\ValidatorHelper\obj\Debug\netcoreapp3.1\ValidatorHelper.AssemblyInfoInputs.cache
+D:\vscode\master\Common.Utility\ValidatorHelper\obj\Debug\netcoreapp3.1\ValidatorHelper.AssemblyInfo.cs
+D:\vscode\master\Common.Utility\ValidatorHelper\obj\Debug\netcoreapp3.1\ValidatorHelper.dll
+D:\vscode\master\Common.Utility\ValidatorHelper\obj\Debug\netcoreapp3.1\ValidatorHelper.pdb
+D:\vscode\master\Common.Utility\ValidatorHelper\obj\Debug\netcoreapp3.1\ValidatorHelper.genruntimeconfig.cache
