@@ -1,0 +1,13 @@
+D:\vscode\master\Common.Utility\TimeEval\bin\Debug\netcoreapp3.1\TimeEval.exe
+D:\vscode\master\Common.Utility\TimeEval\bin\Debug\netcoreapp3.1\TimeEval.deps.json
+D:\vscode\master\Common.Utility\TimeEval\bin\Debug\netcoreapp3.1\TimeEval.runtimeconfig.json
+D:\vscode\master\Common.Utility\TimeEval\bin\Debug\netcoreapp3.1\TimeEval.runtimeconfig.dev.json
+D:\vscode\master\Common.Utility\TimeEval\bin\Debug\netcoreapp3.1\TimeEval.dll
+D:\vscode\master\Common.Utility\TimeEval\bin\Debug\netcoreapp3.1\TimeEval.pdb
+D:\vscode\master\Common.Utility\TimeEval\obj\Debug\netcoreapp3.1\TimeEval.csprojAssemblyReference.cache
+D:\vscode\master\Common.Utility\TimeEval\obj\Debug\netcoreapp3.1\TimeEval.csproj.CoreCompileInputs.cache
+D:\vscode\master\Common.Utility\TimeEval\obj\Debug\netcoreapp3.1\TimeEval.AssemblyInfoInputs.cache
+D:\vscode\master\Common.Utility\TimeEval\obj\Debug\netcoreapp3.1\TimeEval.AssemblyInfo.cs
+D:\vscode\master\Common.Utility\TimeEval\obj\Debug\netcoreapp3.1\TimeEval.dll
+D:\vscode\master\Common.Utility\TimeEval\obj\Debug\netcoreapp3.1\TimeEval.pdb
+D:\vscode\master\Common.Utility\TimeEval\obj\Debug\netcoreapp3.1\TimeEval.genruntimeconfig.cache

@@ -21,6 +21,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "阿里云短信回执消息
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliyunMns", "AliyunMns\AliyunMns.csproj", "{8EC027BE-64E4-4FB6-82C9-423DAF40FF48}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "判断时间在某个时间段内(排班)", "判断时间在某个时间段内(排班)", "{9CCC22A0-26B7-4772-A368-942CCDFAA879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeEval", "TimeEval\TimeEval.csproj", "{3E9D30E6-A7F9-4124-B80F-D0176528A741}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +51,10 @@ Global
 		{8EC027BE-64E4-4FB6-82C9-423DAF40FF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EC027BE-64E4-4FB6-82C9-423DAF40FF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EC027BE-64E4-4FB6-82C9-423DAF40FF48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E9D30E6-A7F9-4124-B80F-D0176528A741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9D30E6-A7F9-4124-B80F-D0176528A741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9D30E6-A7F9-4124-B80F-D0176528A741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9D30E6-A7F9-4124-B80F-D0176528A741}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,6 +64,7 @@ Global
 		{B1954E85-7F0E-4E6D-BD60-504238750101} = {109681D8-5F29-4206-934E-FE0C0E0AC6AC}
 		{0EFF4F4A-89CD-4196-9AE3-52235FD79E9A} = {57EF3A37-3076-4217-8393-6D5D88D01120}
 		{8EC027BE-64E4-4FB6-82C9-423DAF40FF48} = {68BE5012-5B6D-4FC8-B709-82CCA6C19CA9}
+		{3E9D30E6-A7F9-4124-B80F-D0176528A741} = {9CCC22A0-26B7-4772-A368-942CCDFAA879}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AF7F0066-F0B7-4D88-9C1D-CA39ADAA4830}
