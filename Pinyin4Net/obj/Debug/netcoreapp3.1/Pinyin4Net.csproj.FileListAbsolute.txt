@@ -1,0 +1,13 @@
+D:\vscode\master\Common.Utility\Pinyin4Net\bin\Debug\netcoreapp3.1\Pinyin4Net.exe
+D:\vscode\master\Common.Utility\Pinyin4Net\bin\Debug\netcoreapp3.1\Pinyin4Net.deps.json
+D:\vscode\master\Common.Utility\Pinyin4Net\bin\Debug\netcoreapp3.1\Pinyin4Net.runtimeconfig.json
+D:\vscode\master\Common.Utility\Pinyin4Net\bin\Debug\netcoreapp3.1\Pinyin4Net.runtimeconfig.dev.json
+D:\vscode\master\Common.Utility\Pinyin4Net\bin\Debug\netcoreapp3.1\Pinyin4Net.dll
+D:\vscode\master\Common.Utility\Pinyin4Net\bin\Debug\netcoreapp3.1\Pinyin4Net.pdb
+D:\vscode\master\Common.Utility\Pinyin4Net\obj\Debug\netcoreapp3.1\Pinyin4Net.csprojAssemblyReference.cache
+D:\vscode\master\Common.Utility\Pinyin4Net\obj\Debug\netcoreapp3.1\Pinyin4Net.csproj.CoreCompileInputs.cache
+D:\vscode\master\Common.Utility\Pinyin4Net\obj\Debug\netcoreapp3.1\Pinyin4Net.AssemblyInfoInputs.cache
+D:\vscode\master\Common.Utility\Pinyin4Net\obj\Debug\netcoreapp3.1\Pinyin4Net.AssemblyInfo.cs
+D:\vscode\master\Common.Utility\Pinyin4Net\obj\Debug\netcoreapp3.1\Pinyin4Net.dll
+D:\vscode\master\Common.Utility\Pinyin4Net\obj\Debug\netcoreapp3.1\Pinyin4Net.pdb
+D:\vscode\master\Common.Utility\Pinyin4Net\obj\Debug\netcoreapp3.1\Pinyin4Net.genruntimeconfig.cache
