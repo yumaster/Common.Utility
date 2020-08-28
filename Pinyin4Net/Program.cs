@@ -10,7 +10,7 @@ namespace Common.Utility
         {
             //Console.WriteLine("Hello World!");
 
-            Console.WriteLine(Hanzi2Pinyin("张宇"));
+            Console.WriteLine(Hanzi2Pinyin("张"));
         }
 
         private static string Hanzi2Pinyin(string hanzi)
