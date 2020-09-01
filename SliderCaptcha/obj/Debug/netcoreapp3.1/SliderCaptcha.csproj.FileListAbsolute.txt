@@ -92,3 +92,13 @@ D:\vscode\master\Common.Utility\SliderCaptcha\obj\Debug\netcoreapp3.1\SliderCapt
 D:\vscode\master\Common.Utility\SliderCaptcha\obj\Debug\netcoreapp3.1\SliderCaptcha.dll
 D:\vscode\master\Common.Utility\SliderCaptcha\obj\Debug\netcoreapp3.1\SliderCaptcha.pdb
 D:\vscode\master\Common.Utility\SliderCaptcha\obj\Debug\netcoreapp3.1\SliderCaptcha.genruntimeconfig.cache
+D:\vscode\master\Common.Utility\SliderCaptcha\bin\Debug\netcoreapp3.1\SliderCaptcha.Views.dll
+D:\vscode\master\Common.Utility\SliderCaptcha\bin\Debug\netcoreapp3.1\SliderCaptcha.Views.pdb
+D:\vscode\master\Common.Utility\SliderCaptcha\obj\Debug\netcoreapp3.1\SliderCaptcha.RazorAssemblyInfo.cache
+D:\vscode\master\Common.Utility\SliderCaptcha\obj\Debug\netcoreapp3.1\SliderCaptcha.RazorAssemblyInfo.cs
+D:\vscode\master\Common.Utility\SliderCaptcha\obj\Debug\netcoreapp3.1\SliderCaptcha.TagHelpers.input.cache
+D:\vscode\master\Common.Utility\SliderCaptcha\obj\Debug\netcoreapp3.1\SliderCaptcha.TagHelpers.output.cache
+D:\vscode\master\Common.Utility\SliderCaptcha\obj\Debug\netcoreapp3.1\SliderCaptcha.RazorCoreGenerate.cache
+D:\vscode\master\Common.Utility\SliderCaptcha\obj\Debug\netcoreapp3.1\SliderCaptcha.RazorTargetAssemblyInfo.cs
+D:\vscode\master\Common.Utility\SliderCaptcha\obj\Debug\netcoreapp3.1\SliderCaptcha.Views.pdb
+D:\vscode\master\Common.Utility\SliderCaptcha\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
