@@ -177,7 +177,7 @@
             loadCount++;
             if (window.location.protocol === 'file:') {
                 loadCount = that.options.maxLoadCount;
-                console.error("can't load pic resource file from File protocal. Please try http or https");
+                console.error("无法从文件协议加载pic资源文件。请尝试http或https");
             }
             if (loadCount >= that.options.maxLoadCount) {
                 that.text.text('加载失败').addClass('text-danger');

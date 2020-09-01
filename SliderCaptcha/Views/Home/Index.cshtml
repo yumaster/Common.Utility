@@ -1,43 +1,34 @@
 ﻿<meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Slider Captcha Demo</title>
-@*<link href="lib/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="disk/slidercaptcha.css" rel="stylesheet" />*@
-
+<title>滑块验证码 Demo</title>
 <link href="~/lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
 <link href="~/lib/font-awesome/css/font-awesome.css" rel="stylesheet" />
 <link href="~/disk/slidercaptcha.css" rel="stylesheet" />
 <style>
-    .slidercaptcha {
-        margin: 0 auto;
-        width: 314px;
-        height: 286px;
-        border-radius: 4px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.125);
-        margin-top: 40px;
-    }
-
-        .slidercaptcha .card-body {
-            padding: 1rem;
-        }
-
-        .slidercaptcha canvas:first-child {
-            border-radius: 4px;
-            border: 1px solid #e6e8eb;
-        }
-
-        .slidercaptcha.card .card-header {
-            background-image: none;
-            background-color: rgba(0, 0, 0, 0.03);
-        }
-
-    .refreshIcon {
-        top: -54px;
-    }
+.slidercaptcha {
+    margin: 0 auto;
+    width: 314px;
+    height: 286px;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.125);
+    margin-top: 40px;
+}
+.slidercaptcha .card-body {
+    padding: 1rem;
+}
+.slidercaptcha canvas:first-child {
+    border-radius: 4px;
+    border: 1px solid #e6e8eb;
+}
+.slidercaptcha.card .card-header {
+    background-image: none;
+    background-color: rgba(0, 0, 0, 0.03);
+}
+.refreshIcon {
+    top: -54px;
+}
 </style>
-
 <div class="container-fluid">
     <div class="form-row">
         <div class="col-12">
@@ -52,22 +43,11 @@
         </div>
     </div>
 </div>
-@*<script src="lib/jquery/jquery.min.js"></script>
-    <script src="lib/twitter-bootstrap/js/bootstrap.bundle.js"></script>
-    <script src="disk/longbow.slidercaptcha.js"></script>*@
 <script src="~/lib/jquery/jquery.js"></script>
 <script src="~/lib/twitter-bootstrap/js/bootstrap.bundle.js"></script>
 <script src="~/disk/longbow.slidercaptcha.js"></script>
 <script>
     var $captcha = $('#captcha').sliderCaptcha({
-        //width: 280,
-        //height: 150,
-        //sliderL: 42,
-        //sliderR: 9,
-        //offset: 5,
-        //loadingText: '正在加载中...',
-        //failedText: '再试一次',
-        //barText: '向右滑动填充拼图',
         repeatIcon: 'fa fa-redo',
         setSrc: function () {
             return '/images/Pic' + Math.round(Math.random() * 136) + '.jpg';
